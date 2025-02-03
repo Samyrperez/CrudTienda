@@ -20,6 +20,6 @@
 
     <div id="mensaje"></div>
 
-
+<script src="./curd.js"></script>
 </body>
 </html>
